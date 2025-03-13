@@ -16,6 +16,6 @@
   "author": "sam aldis",
   "license": "ISC",
   "dependencies": {
-    "electron": "^3.0.4"
+    "electron": "^35.0.1"
   }
 }
